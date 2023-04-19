@@ -24,4 +24,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallas-Dev&theme=blue-green)
 
 ## Estudante de Análise e Desenvolvimento de Sistemas. 
-Programar é algo incrivel, lhe dá oportunidades que você não encontrar em nenhum outro lugar.
+Programar é algo incrivel, lhe dá oportunidades que você não encontra em nenhum outro lugar.
