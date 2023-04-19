@@ -25,5 +25,3 @@
 
 ## Estudante de Análise e Desenvolvimento de Sistemas. 
 Programar é algo incrivel, lhe dá oportunidades que você não encontra em nenhum outro lugar.
-
-![Snake animation](https://github.com/Wallas-Dev/Wallas-Dev/blob/output/github-contribution-grid-snake.svg)
