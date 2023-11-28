@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wallasalmeida607@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dzuKEZTVZg)
 
-<div style="display: inline_block">
+<div style="display: flex">
     ![Wallas GitHub stats](https://github-readme-stats.vercel.app/api?username=Wallas-Dev&theme=blue-green)
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallas-Dev&theme=blue-green)
 </div>
