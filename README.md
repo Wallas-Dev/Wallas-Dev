@@ -6,8 +6,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dzuKEZTVZg)
 
 ![Wallas GitHub stats](https://github-readme-stats.vercel.app/api?username=Wallas-Dev&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallas-Dev&theme=blue-green)
-
 
 ## Tecnologias que eu uso no meu dia 👨‍💻😍
 
@@ -24,6 +22,8 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </div><br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallas-Dev&theme=blue-green)
 
 ## Estudante de Análise e Desenvolvimento de Sistemas. 
 Programar é algo incrivel, lhe dá oportunidades que você não encontra em nenhum outro lugar.
